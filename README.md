@@ -28,7 +28,6 @@ Please check link https://colab.research.google.com/drive/1ap3upRLC4GbbhUF6YCFUT
 
 The results of the data in comparison, after splitting the all the reviews to vine (paid) and non-vine (unpaid) are as follows:
 - total reviews (paid) 103 vs (non-paid) 4,098,755
-- total helpful votes (paid) 103 vs (non-paid) 4,098,755
 - number of 5-star reviews that are helpful votes (paid) 74 vs (non-paid) 2,693,601
 
 In conclusion, I can say that the vine (paid) reviews for video games are trustworthy. Although, in sheer volume of the total reviews and helpful votes, non-vine (unpaid) has a lot more of a sample size compared to vine (paid). The reason I can conclude that the vine reviews are trustworthy is because of the quality of the reviews. The percentage of the average of helpful votes relative to that of the total votes for paid is much higher than the unpaid.  As shown in the snapshot below in comparison, the paid helpful votes number are much closer to the total votes number than the unpaid. 
