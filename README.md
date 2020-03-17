@@ -27,10 +27,12 @@ The goals for this challenge are:
 Please check link https://colab.research.google.com/drive/1N-vSnf-tO9d0jsQF6a4ojT9R_ugpKkOl for the code
 
 The results of the data for shoe reviews in comparison, after splitting the all the reviews to vine (paid) and non-vine (unpaid) are as follows:
-Shoes
+
+### Shoes
 - total reviews (paid) 4 vs (unpaid) 3,944,284
 - number of 5-star reviews that are helpful votes (paid) 2 vs (non-paid) 2,395,123
-Sports
+
+### Sports
 - total reviews (paid) 11 vs (unpaid) 4,282,471
 - number of 5-star reviews that are helpful votes (paid) 9 vs (non-paid) 2,710.646
 
