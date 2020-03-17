@@ -27,9 +27,13 @@ The goals for this challenge are:
 Please check link https://colab.research.google.com/drive/1N-vSnf-tO9d0jsQF6a4ojT9R_ugpKkOl for the code
 
 The results of the data for shoe reviews in comparison, after splitting the all the reviews to vine (paid) and non-vine (unpaid) are as follows:
+Shoes
 - total reviews (paid) 4 vs (unpaid) 3,944,284
 - number of 5-star reviews that are helpful votes (paid) 2 vs (non-paid) 2,395,123
+Sports
+- total reviews (paid) 11 vs (unpaid) 4,282,471
+- number of 5-star reviews that are helpful votes (paid) 9 vs (non-paid) 2,710.646
 
-In conclusion, due to the amount in volume of the total reviews and helpful votes, non-vine (unpaid) has a lot more of a sample size compared to vine (paid), I deem the vine reviews not trustworthy. Although, the quality of the vine reviews seem to be great, they are still not trustworthy, because of the very small of amounts that exist (only 4). There are 3,944,284 total non-vine reviews, which is a good sample size for the shoe reviews.
+In conclusion, due to the amount in volume of the total reviews and helpful votes, non-vine (unpaid) has a lot more of a sample size compared to vine (paid), I deem the vine reviews not trustworthy. Although, the quality of the vine reviews seem to be great, they are still not trustworthy, because of the very small of amounts that exist (only 4 and 9 respectively for both shoes and sports). There are 3,944,284 total non-vine reviews for shoes and 4,282,471 total non-vine reviews for sports, which is a good sample size for the reviews.
 
 ![]()
