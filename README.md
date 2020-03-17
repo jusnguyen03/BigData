@@ -34,6 +34,6 @@ Sports
 - total reviews (paid) 11 vs (unpaid) 4,282,471
 - number of 5-star reviews that are helpful votes (paid) 9 vs (non-paid) 2,710.646
 
-In conclusion, due to the amount in volume of the total reviews and helpful votes, non-vine (unpaid) has a lot more of a sample size compared to vine (paid), I deem the vine reviews not trustworthy. Although, the quality of the vine reviews seem to be great, they are still not trustworthy, because of the very small of amounts that exist (only 4 and 9 respectively for both shoes and sports). There are 3,944,284 total non-vine reviews for shoes and 4,282,471 total non-vine reviews for sports, which is a good sample size for the reviews.
+In conclusion, due to the amount in volume of the total reviews and helpful votes, non-vine (unpaid) has a lot more of a sample size compared to vine (paid), I deem the vine reviews not trustworthy. Although, the quality of the vine reviews seem to be great, they are still not trustworthy, because of the very small of amounts that exist (only 4 and 11 respectively for both shoes and sports). There are 3,944,284 total non-vine reviews for shoes and 4,282,471 total non-vine reviews for sports, which is a good sample size for the reviews.
 
 ![]()
