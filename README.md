@@ -24,7 +24,7 @@ The goals for this challenge are:
 
 
 ## Challenge Submission
-Please check link https://colab.research.google.com/drive/1ap3upRLC4GbbhUF6YCFUT4KlFaxi1Rqf for the code
+Please check link https://colab.research.google.com/drive/1N-vSnf-tO9d0jsQF6a4ojT9R_ugpKkOl for the code
 
 The results of the data in comparison, after splitting the all the reviews to vine (paid) and non-vine (unpaid) are as follows:
 - total reviews (paid) 103 vs (non-paid) 4,098,755
